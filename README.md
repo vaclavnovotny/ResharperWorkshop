@@ -13,7 +13,7 @@ What we will go through:
 * Working with surround-with feature
 * Templates for declarations - ctor, cycles, class, exception
 
-### Inverse typing
+### Postfix templates
 * If conditions, cycles
 * Working with await + async
 * Field and property initializations
